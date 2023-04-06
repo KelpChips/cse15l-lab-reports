@@ -13,5 +13,5 @@
 ## Trying Some Commands!
 - 1) You can use commands of cd, ld, ~, etc.
 - 2) Some of things I did is in the image below. Try some for yourself!
-![Image](blob.PNG)
+![Image](exampleCode.png)
 🤓 Wow you are a coding nerd 🤓
