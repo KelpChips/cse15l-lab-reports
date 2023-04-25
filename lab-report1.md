@@ -12,6 +12,15 @@
 ![Image](logging in.png)
 ## Trying Some Commands!
 - 1) You can use commands of cd, ld, ~, etc.
+
+cd <path> "Change Directory" | Will change the current directory to the directory stated. This command does return anything in particular but will open into the path inputed.
+
+ls <path> "List" | returns the files and folders in the given path. 
+ 
+~ | Is a shortcut to reference the home direcotry without typing the whole thing out. Useful if you wanted to search for items in the home direcotry or need to go directly back to it.
+
 - 2) Some of things I did is in the image below. Try some for yourself!
 ![Image](exampleCode.png)
+  
+ls -a | This combination of commands in particular will show the files and folders in the path given, but the "-a" will also show the hidden files in the path given
 🤓 Wow you are a coding nerd 🤓
