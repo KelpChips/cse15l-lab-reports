@@ -23,4 +23,5 @@ ls <path> "List" | returns the files and folders in the given path.
 ![Image](exampleCode.png)
   
 ls -a | This combination of commands in particular will show the files and folders in the path given, but the "-a" will also show the hidden files in the path given
+
 🤓 Wow you are a coding nerd 🤓
